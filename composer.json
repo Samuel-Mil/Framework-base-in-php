@@ -1,12 +1,12 @@
 {
-    "name": "samuel/sistem",  
+    "name": "samuel/framework_base",
     "authors": [
         {
             "name": "Samuel Milhomens",
             "email": "samuel.mil.mar@gmail.com"
         }
     ],
-    
+
     "autoload": {
         "psr-4": {
             "Src\\": "src/",
